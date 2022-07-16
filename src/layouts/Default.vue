@@ -11,7 +11,7 @@
     </header>
     <slot/>
   </div>
-</template>
+</template> 
 
 <static-query>
 query {

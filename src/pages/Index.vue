@@ -19,7 +19,9 @@
 </template>
 
 <script>
+import SideBar from '@/components/sidebar/SideBar'
 export default {
+  components: { SideBar },
   metaInfo: {
     title: 'Hello, world!'
   }
